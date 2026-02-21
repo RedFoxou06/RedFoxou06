@@ -40,21 +40,8 @@ Mobile      →  Ionic React  Capacitor  Android Studio
 Infra       →  Apache  Linux  Cloudflare  Self-hosted
 Outils      →  Git  VS Code  IntelliJ  PhpStorm
 ```
-
----
-
-## Stats GitHub
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=RedFoxou06&show_icons=true&theme=dark&bg_color=060c12&title_color=ff4655&icon_color=ff4655&text_color=ece8e1&border_color=1e3045&hide_border=false&rank_icon=github)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RedFoxou06&layout=compact&theme=dark&bg_color=060c12&title_color=ff4655&text_color=ece8e1&border_color=1e3045)
-
-</div>
-
 ---
 
 <div align="center">
-<sub>Tous mes projets sont disponibles sur <a href="https://foxhub.redfoxou.dev">foxhub.redfoxou.dev</a></sub>
+<sub>Tous mes projets sont disponibles sur <a href="https://redfoxou.dev">redfoxou.dev</a></sub>
 </div>

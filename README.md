@@ -4,8 +4,7 @@
 
 **Développeur web & mobile · Self-hosted · Toujours en train de coder**
 
-[![Profile views](https://komarev.com/ghpvc/?username=RedFoxou06&color=ff4655&style=flat-square&label=VUES)](https://github.com/RedFoxou06)
-
+[![GitHub Commits](https://img.shields.io/github/commit-activity/y/RedFoxou06?color=ff4655&label=COMMITS&style=flat-square)](https://github.com/RedFoxou06)
 </div>
 
 ---

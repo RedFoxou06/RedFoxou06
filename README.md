@@ -4,7 +4,7 @@
 
 **Développeur web & mobile · Self-hosted · Toujours en train de coder**
 
-[![GitHub Commits](https://img.shields.io/github/commit-activity/y/RedFoxou06?color=ff4655&label=COMMITS&style=flat-square)](https://github.com/RedFoxou06)
+[![GitHub Commits](https://img.shields.io/github/search/commits?q=author%3ARedFoxou06&color=ff4655&label=COMMITS&style=flat-square)](https://github.com/RedFoxou06)
 </div>
 
 ---

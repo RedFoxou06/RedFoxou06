@@ -29,16 +29,7 @@
 
 ---
 
-## Stack
+## Portfolio
 
-```
-Langages    →  JavaScript  PHP  Python  Java  HTML/CSS
-Mobile      →  Ionic React  Capacitor  Android Studio
-Infra       →  Apache  Linux  Cloudflare  Self-hosted
-Outils      →  Git  VS Code  IntelliJ  PhpStorm
-```
----
-
-<div align="center">
-<sub>Tous mes projets sont disponibles sur <a href="https://redfoxou.dev">redfoxou.dev</a></sub>
-</div>
+Plus d'information sur moi         -> [portfolio.redfoxou.dev](https://portfolio.redfoxou.dev/)
+Plus d'information sur mes projets -> [redfoxou.dev](https://redfoxou.dev/)
